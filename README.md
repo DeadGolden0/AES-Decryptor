@@ -41,6 +41,10 @@ python3 main.py
 
 If everything went correctly, an interface will open; just follow the instructions on the program.
 
+## ⚠️ Disclaimer
+> [!CAUTION]
+> I disclaim all responsibility for the use of this software. This software is provided for educational purposes only and should not be used for any other purpose. The user assumes full responsibility for the consequences of its use.
+
 ## 🤝 Contributing
 
 Your contributions make the open source community a fantastic place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
