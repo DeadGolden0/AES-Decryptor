@@ -7,14 +7,19 @@ Welcome to the **AES Decryptor** repository!
 ![Show1](https://github.com/DeadGolden0/AES-Decryptor/blob/main/assets/aes-decryptor-showcase.png)
 
 ## 📋 Prerequisites
+To use **AES Decryptor**, you will need:
 
 - VPS or Dedicated Server
 - Python
 
 ## ⚙️ Installation
-
+1. Clone the repository
 ```bash
 git clone https://github.com/DeadGolden0/AES-Decryptor.git
+```
+
+2. Install all dependencies
+```bash
 pip install pycrypto
 pip install pillow
 pip install tk
