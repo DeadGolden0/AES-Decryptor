@@ -1,6 +1,6 @@
 ## ⚔️ AES Decryptor
 
-Welcome to the **AES Decryptor** repository!
+Welcome to the **AES Decryptor** repository! This script allows you to decrypt files encrypted with the AES-CBC algorithm.
 
 ## 🚀 Showcase
 
