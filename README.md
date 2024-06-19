@@ -43,9 +43,7 @@ If everything went correctly, an interface will open; just follow the instructio
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> I disclaim all responsibility for the use of this software. This software is provided for educational purposes only and should not be used for any other purpose.
-
-> The user assumes full responsibility for the consequences of its use.
+> I disclaim all responsibility for the use of this software. This software is provided for educational purposes only and should not be used for any other purpose.\nThe user assumes full responsibility for the consequences of its use.
 
 ## 🤝 Contributing
 
