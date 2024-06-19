@@ -11,7 +11,7 @@ class FileDecryptorUtils:
     
     def check_for_updates(self, current_version):
         try:
-            response = requests.get('https://api.github.com/repos/DeadGolden0/<repository>/tags')
+            response = requests.get('https://api.github.com/repos/DeadGolden0/AES-Decryptor/tags')
             response.raise_for_status()
             tags = response.json()
             latest_version = tags[0]['name'] if tags else current_version

@@ -2,7 +2,7 @@ from aes_decrypt_gui import AESDecryptorApp
 from aes_decrypt_utils import FileDecryptorUtils
 from tkinter import messagebox
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 if __name__ == "__main__":
     app = AESDecryptorApp(__version__)
