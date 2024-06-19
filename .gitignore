@@ -1,0 +1,8 @@
+# Personnal settings
+Backup/
+CRYPT/
+DECRYPT/
+
+__pycache__/
+*.pyc
+*.txt
